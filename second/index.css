@@ -1,0 +1,23 @@
+#section-1 {
+    height: 25vh;
+    background-color: white;
+    border-width: 5px;
+    border-style: solid;
+    border-color:black;
+    margin: 20px;
+
+
+}
+#section-2 {
+    height: 25vh;
+    border-color:black;
+    border-style:dotted;
+    border-width: 5px;
+    margin: 20px;
+
+}
+#section-3 {
+    text-align: center;
+
+
+}
