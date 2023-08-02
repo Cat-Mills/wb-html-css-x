@@ -6,35 +6,40 @@
     border-color:black;
     margin: 20px;
     padding: 10px;
-
-
 }
+
 #square-one {
     background-color:blueviolet;
     height: 150px;
     width: 50px;
     margin-top: 90px;
     display: inline-block;
-
-
 }
+
 #square-two {
     background-color: green;
-    height: 200px;
+    height: 250px;
     width: 500px;
     display: inline-block;
     margin: 0 50px;
-
-    
 }
+
+#circle-one {
+    background-color:#97e4fd;
+    display: inline-block;
+    height: 250px;
+    width: 250px;
+    border-radius: 50%;
+}
+
 #section-2 {
     height: 25vh;
     border-color:black;
     border-style:dotted;
     border-width: 5px;
     margin: 20px;
-
 }
+
 #section-3 {
     background-color: white;
     height: 25vh;
@@ -42,8 +47,7 @@
     margin:auto;
     padding: 50px;
     border: 1px solid gray;
-    box-shadow: 3px, 3px, 5px,0px black;
-    
+    box-shadow: 3px, 3px, 5px,0px black;   
 }
 
 h1 {
