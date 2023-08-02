@@ -38,8 +38,17 @@
     border-style:dotted;
     border-width: 5px;
     margin: 20px;
+    padding: 40px;
 }
 
+#square-three {
+    background-color: khaki;
+    display: inline-block;
+    height: 100%;
+    width: 100%;
+    box-shadow: 5px 5px 8px black;
+
+}
 #section-3 {
     background-color: white;
     height: 25vh;
