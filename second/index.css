@@ -17,7 +17,24 @@
 
 }
 #section-3 {
+    background-color: white;
+    height: 25vh;
+    width: 40%;
+    margin:auto;
+    padding: 50px;
+    border: 1px solid gray;
+    box-shadow: 3px, 3px, 5px,0px black;
+    
+}
+
+h1 {
+    width: 100%;
     text-align: center;
-
-
+    letter-spacing: 10px;
+    vertical-align: middle;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size: 40px;
+    color: navy;
+    margin-top: 80px;
 }
