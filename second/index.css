@@ -5,8 +5,27 @@
     border-style: solid;
     border-color:black;
     margin: 20px;
+    padding: 10px;
 
 
+}
+#square-one {
+    background-color:blueviolet;
+    height: 150px;
+    width: 50px;
+    margin-top: 90px;
+    display: inline-block;
+
+
+}
+#square-two {
+    background-color: green;
+    height: 200px;
+    width: 500px;
+    display: inline-block;
+    margin: 0 50px;
+
+    
 }
 #section-2 {
     height: 25vh;
